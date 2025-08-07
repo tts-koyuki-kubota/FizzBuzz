@@ -10,13 +10,13 @@
 
 アプリケーションのURLを取得します
 
-% git clone URL
+	% git clone URL
 
-(% git clone URL 名前　クローンするアプリケーションの名前を変更したい場合）
+	(% git clone URL 名前　クローンするアプリケーションの名前を変更したい場合）
    
 ### 2.mainブランチに切り替えます
 
-git checkout main
+	git checkout main
 
 ### 3.プログラムをコンパイルして実行します
 
