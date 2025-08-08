@@ -6,7 +6,7 @@
 
 _実行結果の例_
 
-<img width="767" height="1343" alt="Image" src="https://github.com/user-attachments/assets/fb3fe1a2-5aa0-43e7-b7fa-05b70846b24f" />
+<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/fb3fe1a2-5aa0-43e7-b7fa-05b70846b24f" />
 
 
 ## 前提条件
