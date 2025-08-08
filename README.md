@@ -26,7 +26,8 @@ __Windows__
 ・Path変数の編集
   
 ④コマンドプロンプトで以下を実行しインストールができているかを確認
-	java -version
+	
+ 	java -version
 
 
 
