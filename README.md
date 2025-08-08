@@ -12,9 +12,9 @@ __実行結果の例__
 
 ## 前提条件
 ・Javaがインストールされていること
+・Gitがインストールされていること
 
-## インストール手順
-__Windows__
+## Javaインストール手順
 
 ①Java公式サイトからJDKをダウンロード
 
@@ -33,6 +33,11 @@ __Windows__
 __実行結果イメージ__
 
 <img width="763" height="93" alt="Image" src="https://github.com/user-attachments/assets/d9d07a28-c76d-4459-940f-5fb2f3e2c825" />
+
+## Gitインストール方法
+
+①Git公式サイトからダウンロード
+②実行して、指示に従ってインストール
 
 
 ## 使い方
