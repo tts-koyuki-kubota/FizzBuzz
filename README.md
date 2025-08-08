@@ -5,6 +5,7 @@
 1から100までの数を順に出力し、3の倍数はFizz、5の倍数はBuzz、両方の倍数はFizzBuzzと表示します。
 
 _実行結果の例_
+
 <img width="767" height="1343" alt="Image" src="https://github.com/user-attachments/assets/fb3fe1a2-5aa0-43e7-b7fa-05b70846b24f" />
 
 
