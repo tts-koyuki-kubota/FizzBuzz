@@ -4,9 +4,9 @@
 このリポジトリは、FizzBuzzプログラムを実行するためのものです。
 1から100までの数を順に出力し、3の倍数はFizz、5の倍数はBuzz、両方の倍数はFizzBuzzと表示します。
 
-_実行結果の例_
+__実行結果の例__
 
-<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/fb3fe1a2-5aa0-43e7-b7fa-05b70846b24f" />
+<img width="767" height="611" alt="Image" src="https://github.com/user-attachments/assets/973f6e7a-c6a4-4394-b523-ae186ad1633b" />
 
 
 ## 前提条件
