@@ -21,9 +21,9 @@ __Windows__
 
 ③環境変数の設定
 
-	・JAVA_HOME変数の設定
+・JAVA_HOME変数の設定
  
- 	・Path変数の編集
+・Path変数の編集
   
 ④コマンドプロンプトで以下を実行しインストールができているかを確認
 	java -version
